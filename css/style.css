@@ -1,0 +1,28 @@
+body
+{
+   background : url("../images/bg.jpg")
+   no-repeat center center fixed;
+   background-size: cover;
+}
+
+div
+{
+    background-color: lightblue;
+}
+
+i
+{
+    color: orange;
+}
+
+h1
+{
+    color :black;
+    text-align: center;
+    width: 300px;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 300px;
+    font-family: 'Piedra', cursive;
+    font-size: 3em;
+}
